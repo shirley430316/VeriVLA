@@ -1,4 +1,4 @@
-## VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs
+## VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models
 
 ## Demo
 
