@@ -5,12 +5,12 @@ VeriVLA proposes a latent world model verifier for action ranking to improve vis
 ### Demo
 https://github.com/user-attachments/assets/0d046b16-7fa2-40bd-93b3-8265ed93cd12
 
-## TODO
+### TODO
 
 - [x] Latent world model structure
 - [ ] Training code
 - [ ] Real-world robot integration
 
-## Acknowledgements
+### Acknowledgements
 
 VeriVLA builds on [V-JEPA 2](https://github.com/facebookresearch/vjepa2) and [OpenPI](https://github.com/Physical-Intelligence/openpi). Much appreciation!
