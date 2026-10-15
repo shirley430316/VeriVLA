@@ -7,9 +7,10 @@ https://github.com/user-attachments/assets/0d046b16-7fa2-40bd-93b3-8265ed93cd12
 
 ### TODO
 
-- [x] Latent world model structure
-- [ ] Training code
-- [ ] Real-world robot integration
+- [x] model structure
+- [ ] training code
+- [ ] LIBERO & Robotwin integration
+- [ ] real-world robot integration
 
 ### Acknowledgements
 
